@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/cowie/simpleSDOHeroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Skrafft74/HC-SDOdemo)
 
 Simple Demo Org - Heroku Connect (Cirrus Edition)
 ======================
