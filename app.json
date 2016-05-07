@@ -1,0 +1,15 @@
+{
+	"name": "Simple Form Capture Demo",
+	"description": "A simple app that captures information from a form and sends to HerokuConnect in the event things are in place.",
+	"repository": "https://github.com/cowie/simpleHCForm",
+	"scripts":{
+		
+	},
+	"env":{
+		
+	},
+	"addons":[
+		"heroku-postgresql:hobby-dev",
+		"herokuconnect:demo"
+	]
+}
